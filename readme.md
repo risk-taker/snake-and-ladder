@@ -1,6 +1,6 @@
-#Snake and Ladder simple game Using java programming
+# Snake and Ladder simple game Using java programming
 
-##Requirements Gathering
+## Requirements Gathering
 
 This is an automatic game. the player don't need to roll dice
 
