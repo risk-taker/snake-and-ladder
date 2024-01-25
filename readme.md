@@ -26,6 +26,7 @@ The game should continue till there are at least 2 player
 [class diagram](https://drive.google.com/file/d/1J9bG63pOdouReIpyDsi5ruEwG9V8GAQ1/view?usp=drive_link)
 ![Class Diagram](https://drive.google.com/file/d/1J9bG63pOdouReIpyDsi5ruEwG9V8GAQ1/view?usp=drive_link)
 
+<img src="https://drive.google.com/file/d/1J9bG63pOdouReIpyDsi5ruEwG9V8GAQ1/view?usp=drive_link" alt="class diagram" >
 ## Ouput
 [output part 1](https://drive.google.com/file/d/14U24UhmfXaClSBZbq-rc_BbgXRiwX3zu/view?usp=drive_link)
 [output part 2](https://drive.google.com/file/d/1UcyQl5_C7PUqtIf0zqg0qrxrA6kTzLqB/view?usp=drive_link)
