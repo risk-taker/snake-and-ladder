@@ -22,9 +22,10 @@ for eg: if he is at 98, after rolling the dice comes 4 then chance goes to anoth
 
 The game should continue till there are at least 2 player
 
-##Class diagram
+## Class diagram
 [class diagram](https://drive.google.com/file/d/1J9bG63pOdouReIpyDsi5ruEwG9V8GAQ1/view?usp=drive_link)
+![Class Diagram](https://drive.google.com/file/d/1J9bG63pOdouReIpyDsi5ruEwG9V8GAQ1/view?usp=drive_link)
 
-##Ouput
+## Ouput
 [output part 1](https://drive.google.com/file/d/14U24UhmfXaClSBZbq-rc_BbgXRiwX3zu/view?usp=drive_link)
 [output part 2](https://drive.google.com/file/d/1UcyQl5_C7PUqtIf0zqg0qrxrA6kTzLqB/view?usp=drive_link)
